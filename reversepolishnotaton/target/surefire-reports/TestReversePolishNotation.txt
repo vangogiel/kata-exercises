@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestReversePolishNotation
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.147 sec <<< FAILURE! - in TestReversePolishNotation
+testAddition(TestReversePolishNotation)  Time elapsed: 0.102 sec  <<< ERROR!
+java.util.NoSuchElementException: null
+	at java.util.ArrayDeque.removeFirst(ArrayDeque.java:285)
+	at java.util.ArrayDeque.pop(ArrayDeque.java:522)
+	at ComputeRPN.compute(ComputeRPN.java:15)
+	at TestReversePolishNotation.testAddition(TestReversePolishNotation.java:12)
+

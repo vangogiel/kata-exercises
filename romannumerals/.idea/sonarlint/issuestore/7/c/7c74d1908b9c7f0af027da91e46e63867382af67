@@ -1,0 +1,5 @@
+
+Usquid:S3655"9Call "firstValue.isPresent()" before accessing the value.(—ôµÛ8õ³•†ƒ.
+8squid:S1220""Move this file to a named package.8¡Å·ƒ.
+Usquid:S3655"9Call "firstValue.isPresent()" before accessing the value.(—ôµÛ8îûò…ƒ.
+‰ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8õ³•†ƒ.
